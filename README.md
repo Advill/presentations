@@ -26,6 +26,7 @@ This is a collection of presentation notes from previous UUG meetings.
 * [Adventures in /proc](AdventuresInProc.md)
 * [Laravel](Laravel.md)
 * [osquery](osquery.md)
+* [Firefox features](firefox.md)
 
 ## Virtual Machine
 Virtual machine documentation is kept in a [separate folder](vm/)
