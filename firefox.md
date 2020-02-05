@@ -49,3 +49,7 @@ some setup.
 Once set up, even links clicked from another web site will automatically open
 different containers
 
+## Finally
+I'll leave the article that inspired both me using firefox and giving this talk
+[here](https://markosaric.com/firefox/). I go over a lot of the same technically
+interesting points but he goes a lot more generally.
